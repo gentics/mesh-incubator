@@ -1,0 +1,1 @@
+This project serves as the home for enhancements to Gentics Mesh.
